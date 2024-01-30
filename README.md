@@ -8,4 +8,4 @@ void readStrings_: Will reads strings from the user and allocates memory for the
 Open terminal and navigate the directory for the source code
 Enter command: gcc lab03.c -lm
 After compilation program will prompt to enter an array and then program will dynamically allocates memory for each input string and will print unsorted and sorted array.
-## Link for Repository: 
+## Link for Repository: https://github.com/KartikSGulkotwar/Lab-SP 
