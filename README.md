@@ -6,6 +6,6 @@ void printArray_: `: Will print the array of strings.
 void readStrings_: Will reads strings from the user and allocates memory for them.
 ### Compilation:
 Open terminal and navigate the directory for the source code
-Enter command: gcc lab03.c -lm
+Enter command: gcc Lab3SP.c -lm
 After compilation program will prompt to enter an array and then program will dynamically allocates memory for each input string and will print unsorted and sorted array.
 ## Link for Repository: https://github.com/KartikSGulkotwar/Lab-SP 
